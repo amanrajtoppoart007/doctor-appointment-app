@@ -1,0 +1,4 @@
+export const PRODUCT_CATEGORY = 'PRODUCT_CATEGORY';
+export const PRODUCT_ITEM = 'PRODUCT_ITEM';
+export const CART_ITEMS = 'CART_ITEMS';
+export const ORDER_HISTORY_DATA = 'ORDER_HISTORY_DATA';

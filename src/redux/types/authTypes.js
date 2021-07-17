@@ -1,0 +1,3 @@
+export const SIGNIN = 'SIGNIN';
+export const USER_DATA = 'USER_DATA';
+export const STORE_USER_CREDENTIALS = 'STORE_USER_CREDENTIALS';
